@@ -1,6 +1,5 @@
 # Week 5 homework (DNSC 6330) — COMPAS adversarial stuff
 
-Hi — this is my Week 5 individual assignment for Responsible ML. Same COMPAS data / filters as we used in Week 4 and in `Lecture_05_security`, but this time it’s PGD, poisoning, PSI, and membership inference.
 
 ## What to actually open
 
