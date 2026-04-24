@@ -1,15 +1,9 @@
-# DNSC 6330 · Week 5 Individual (Applied): Adversarial ML on COMPAS
+# DNSC 6330 · Week 5 Individual Assignment
 
-## Course context
+**Course:** DNSC 63310, Responsible Machine Learning (GW School of Business).
 
-**Course:** DNSC 6330, Responsible Machine Learning (GW School of Business).
-
-**This deliverable:** Week 5 individual coding work—an **adversarial and privacy-oriented audit** of the same COMPAS-style tabular pipeline used in Week 4, aligned with **Lecture 05 (security)**: evasion (PGD-style), **label poisoning**, drift monitoring limits (PSI), **membership inference** (shadow models), and a short **regularization / MI** sweep on logistic regression.
-
-Lecture materials are CC BY 4.0 where noted. If you fork or reuse, credit the instructor (name on the slides).
 
 ## Overview
-
 The graded artifact is **`Homework_05_Individual_DNSC6330.ipynb`**. It:
 
 - Loads ProPublica **`compas-scores-two-years.csv`** (same filters as Lectures 4–5), builds **logistic regression** and **gradient boosting** on scaled features, and reports **FPR by race** and **AIR** (African-American FPR / Caucasian FPR) at threshold 0.5.
