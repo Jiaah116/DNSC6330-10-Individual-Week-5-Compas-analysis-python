@@ -1,1 +1,0 @@
-# DNSC6330-10-Individual-Week-5-Compas-analysis-python
